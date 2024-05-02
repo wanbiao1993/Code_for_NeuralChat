@@ -17,7 +17,10 @@ LLM生成Python代码是关键，需要精心设计其提示工程，例如变�
 参考代码：https://github.com/google-research/google-research/tree/master/code_as_policies
 
 # 下面是仿真实验的演示视频
+https://github.com/wanbiao1993/Code_for_NeuralChat/assets/131963219/95345b13-cc68-4d82-a93a-d77bf162fed3
+
 <!-- mp4格式 -->
 <video id="video" controls="" preload="none" poster="封面">
       <source id="mp4" src="__temp__.mp4" type="video/mp4">
 </videos>
+
