@@ -7,6 +7,10 @@ LLM生成Python代码是关键，需要精心设计其提示工程，例如变�
 
 本项目，仅作为复旦大学课程作业。
 
+下一步：
+1. 使用更小的LLM后端，由机械臂自身的Edge设备运行
+2. 放入DOFBOT机械臂中
+
 
 # 注意：
 1. NeuralChat服务端使用Phind/Phind-CodeLlama-34B-v2生成的Policy质量更高
